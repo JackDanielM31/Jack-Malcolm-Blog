@@ -6,4 +6,7 @@ Date of Creation: August 5th, 2025.
 
 # Citations and References
 
-
+[Color Palatte] sourced from [colorhunt]. 
+Date accessed: August 8th, 2025.
+[Color Palatte]: https://colorhunt.co/palette/1a363640534c677d6ad6bd98 
+[colorhunt]: https://colorhunt.co/palette/1a363640534c677d6ad6bd98

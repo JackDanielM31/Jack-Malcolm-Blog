@@ -1,0 +1,17 @@
+:root {
+    --color-background: #1A3636;
+    --color-primary: #40534C;
+    --color-secondary: #677D6A;
+    --color-accent: #D6BD98;
+    --color-text: #ffffff;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    /* Temporary Borders for designing */
+    border-radius: 2px;
+    border-color: red;
+}
