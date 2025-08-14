@@ -1,5 +1,5 @@
 function injectHeader() {
-    fetch("/components/header.html")
+    fetch("components/header.html")
       .then(headerObject => headerObject.text())
       .then(headerHTML => {
         document.getElementById("header").innerHTML = headerHTML;
@@ -7,7 +7,7 @@ function injectHeader() {
 }
 
 function injectFooter() {
-    fetch("/components/footer.html")
+    fetch("components/footer.html")
       .then(footerObject => footerObject.text())
       .then(footerHTML => {
         document.getElementById("footer").innerHTML = footerHTML;
